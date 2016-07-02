@@ -1,0 +1,43 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example/Student.java" timestamp="1467436899155">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example/Test.java" timestamp="1467437004478">
+        <mark key="[" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example2/A.java" timestamp="1467439032295">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/spring.xml" timestamp="1467437318079">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/context.xml" timestamp="1467439423915">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example2/Test.java" timestamp="1467439293648">
+        <mark key="[" line="7" column="18" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
