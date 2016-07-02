@@ -6,8 +6,16 @@
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example/Student.java" timestamp="1467436899155">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringHIbernate/src/hibernate.hbm.xml" timestamp="1467444240153">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example/Test.java" timestamp="1467437004478">
         <mark key="[" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringHIbernate/src/com/ben/Dao/Employee.java" timestamp="1467444353053">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example2/A.java" timestamp="1467439032295">
         <mark key="[" line="5" column="0" />
@@ -18,12 +26,22 @@
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/context.xml" timestamp="1467439423915">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SpringHIbernate/src/com/ben/hibernate.hbm.xml" timestamp="1467444451507">
+        <mark key="[" line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example2/Test.java" timestamp="1467439293648">
         <mark key="[" line="7" column="18" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">PGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPgoKPC9iZWFucz4=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPgoKPC9iZWFucz4=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -37,6 +55,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
