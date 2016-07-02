@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/SpringDemo/src/org/ben/example/Student.java" timestamp="1467436899155">
@@ -34,6 +34,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/SpringHIbernate/src/com/ben/test/InsertTest.java" timestamp="1467446153464">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1467447171690">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
